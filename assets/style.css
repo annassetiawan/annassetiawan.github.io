@@ -347,8 +347,8 @@ footer{
      }
 
      .content{
-         float: left;
-         width: 70%;
+         /* float: left; */
+         width: 100%;
      }
 
      .homeimg{
